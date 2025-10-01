@@ -173,7 +173,7 @@ Kemudian tambahkan deklarasi inline CSS pada tag p seperti berikut.
 
 Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 
-![gambar](
+![gambar](https://github.com/andreanbadeh/Lab2html-cssweb1/blob/1e21efc923ae1e26c01508ea355718f5b64fd8ea/image/Screenshot%20from%202025-10-01%2019-15-57.png)
 
 # 4. Membuat CSS Eksternal
 Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.
