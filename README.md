@@ -178,14 +178,30 @@ Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 # 4. Membuat CSS Eksternal
 Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.
 Kalau internal CSS ditulis di dalam file HTML, Eksternal CSS dipisahin jadi file khusus dengan ekstensi .css. Jadi HTML sama CSS tidak bercampur, lebih mudah kalo nanti mau edit tampilan.
-Bikin file baru di folder project, kasih nama style_eksternal.css 
+Bikin file baru di folder project, kasih nama lat2web1.css 
 Kemudian buat kode seperti yang ada di contoh pratikum
+```
+nav {
+  background: #20A759;
+  color: #fff;
+  padding: 10px;
+}
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/efa1dfd75127e85f51816f5a26d359c9560cbd15/Cuplikan%20layar%202025-09-30%20231724.png)
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+}
 
-Sekarang buka file lab2_css_dasar.html tadi, Tambahin tag di dalam buat nyambungin ke file CSS eksternal
+nav .active,
+nav a:hover {
+  background: #0B6B3A;
+}
+```
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/efa1dfd75127e85f51816f5a26d359c9560cbd15/code.png)
+Sekarang buka file lat2web1.html tadi, Tambahin tag di dalam buat nyambungin ke file CSS eksternal
+
+![gambar](
 
 Tampilan hasil nya :
 
