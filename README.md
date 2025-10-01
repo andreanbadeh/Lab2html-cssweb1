@@ -99,4 +99,4 @@ Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokum
 </body>
 </html>
 ```
-![gambar](
+![gambar](https://github.com/andreanbadeh/Lab2html-cssweb1/blob/0187f14a21f2224c35f4ec4d2c9d398504114359/image/Screenshot%20from%202025-10-01%2019-06-51.png)
