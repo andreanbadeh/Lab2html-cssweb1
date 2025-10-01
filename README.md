@@ -259,8 +259,58 @@ Tampilan hasil nya :
 
 # 5. Menambahkan CSS Selector
 Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode berikut.
+```
+header {
+  text-align: center;
+  margin-bottom: 10px;
+}
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/52723fc9af873b28999bf536a8a13831595bb1b4/Cuplikan%20layar%202025-09-30%20233856.png)
+nav {
+  background: #2ecc71;
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  background: #27ae60;
+}
+
+#intro {
+  background: #418fb1;
+  border: 1px solid #099249;
+  min-height: 200px;
+  padding: 20px;
+}
+
+#intro h1 {
+  text-align: left;
+  border: 0;
+  color: #fff !important;
+}
+
+#intro p {
+  color: #fff !important;
+}
+
+.button {
+  padding: 15px 20px;
+  background: #bebcbd;
+  color: #fff;
+  display: inline-block;
+  margin: 10px 0;
+  text-decoration: none;
+}
+
+.btn-primary {
+  background: #E42A42;
+}
+```
 
 Kemudian simpan kembali dan refresh browser untuk melihat perubahannya :
 
