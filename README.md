@@ -258,7 +258,7 @@ Tampilan hasil nya :
 ![gambar](https://github.com/andreanbadeh/Lab2html-cssweb1/blob/770d109bee789b77efe5ebedc746d032a97ccad1/image/Screenshot%20from%202025-10-01%2019-29-53.png)
 
 # 5. Menambahkan CSS Selector
-Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode berikut.
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file lat2web1.css, tambahkan kode berikut.
 ```
 header {
   text-align: center;
