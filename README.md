@@ -43,3 +43,5 @@ Buatlah dokumen HTML seperti berikut :
 </html>
 ```
 Selanjutnya buka pada brwoser untuk melihat hasilnya :
+
+![gambar](https://github.com/andreanbadeh/Lab2html-cssweb1/blob/225f956797ccd09ec2b6212052733d50dffa1c43/image/Screenshot%20from%202025-10-01%2018-59-40.png)
