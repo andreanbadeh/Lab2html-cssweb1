@@ -340,7 +340,7 @@ p {
 ```
 Hasilnya :
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/8f3072e713998c4be1621dbf06eeb9d587fd2535/Cuplikan%20layar%202025-10-01%20000106.png)
+![gambar](https://github.com/andreanbadeh/Lab2html-cssweb1/blob/d6ab5be3bbb4f20dcf3842ec34c5c9061b84d0e3/image/Screenshot%20from%202025-10-01%2020-00-15.png)
 
 # 2. Perbedaan h1 {…} dengan #intro h1 {…}
 h1 {…} → berlaku ke semua elemen di halaman.
