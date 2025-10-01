@@ -318,7 +318,7 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya :
 
 # PERTANYAAN & TUGAS :
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/96a2c8da0f79c3ea45456604e340f16227cfe6a7/Cuplikan%20layar%202025-09-30%20234555.png)
+![gambar](https://github.com/andreanbadeh/Lab2html-cssweb1/blob/b81992cb0e1d60eea592559136bc0809a59c975f/image/Screenshot%20from%202025-10-01%2020-15-57.png)
 
 # 1. Eksperimen Properti CSS
 Kita bisa mengubah atau menambahkan properti CSS biar tampilan halaman berubah.
