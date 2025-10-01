@@ -315,3 +315,46 @@ nav a:hover {
 Kemudian simpan kembali dan refresh browser untuk melihat perubahannya :
 
 ![gambar](https://github.com/andreanbadeh/Lab2html-cssweb1/blob/09b0e1653a8ddbc658641471b6f502c5ea667c4b/image/Screenshot%20from%202025-10-01%2019-44-37.png)
+
+# PERTANYAAN & TUGAS :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/96a2c8da0f79c3ea45456604e340f16227cfe6a7/Cuplikan%20layar%202025-09-30%20234555.png)
+
+# 1. Eksperimen Properti CSS
+Kita bisa mengubah atau menambahkan properti CSS biar tampilan halaman berubah.
+Contohnya:
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/8f3072e713998c4be1621dbf06eeb9d587fd2535/Cuplikan%20layar%202025-10-01%20000053.png)
+
+Hasilnya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/8f3072e713998c4be1621dbf06eeb9d587fd2535/Cuplikan%20layar%202025-10-01%20000106.png)
+
+# 2. Perbedaan h1 {…} dengan #intro h1 {…}
+h1 {…} → berlaku ke semua elemen di halaman.
+#intro h1 {…} → hanya berlaku untuk yang ada di dalam elemen dengan ID intro
+
+# 3. Prioritas CSS (Internal, Eksternal, Inline)
+Contoh code :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/dea2fe6ee54c05e22ec326b2dd980bed1150e2d4/Cuplikan%20layar%202025-10-01%20001326.png)
+
+Hasil Code :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/dea2fe6ee54c05e22ec326b2dd980bed1150e2d4/Cuplikan%20layar%202025-10-01%20001338.png)
+
+# 4. Jika Elemen Punya ID dan Class
+Kalau elemen punya ID dan Class sekaligus, ID lebih kuat daripada Class.
+Contoh kode di HTML:
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/096d7809a79643090cdf8121afea4afe833a1469/Cuplikan%20layar%202025-10-01%20002705.png)
+
+Contoh code di CSS
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/096d7809a79643090cdf8121afea4afe833a1469/Cuplikan%20layar%202025-10-01%20002807.png)
+
+Hasil nya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/52723fc9af873b28999bf536a8a13831595bb1b4/Cuplikan%20layar%202025-09-30%20233835.png)
+
+Hasil: teks merah, karena aturan ID mengalahkan Class.
