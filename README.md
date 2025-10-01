@@ -323,9 +323,21 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya :
 # 1. Eksperimen Properti CSS
 Kita bisa mengubah atau menambahkan properti CSS biar tampilan halaman berubah.
 Contohnya:
+```
+h1 i {
+  color: #6d6a6b;
+}
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/8f3072e713998c4be1621dbf06eeb9d587fd2535/Cuplikan%20layar%202025-10-01%20000053.png)
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+}
 
+p {
+  color: #a0522d; 
+  font-size: 18px;
+}
+```
 Hasilnya :
 
 ![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/8f3072e713998c4be1621dbf06eeb9d587fd2535/Cuplikan%20layar%202025-10-01%20000106.png)
