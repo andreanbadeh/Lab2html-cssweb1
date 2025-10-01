@@ -357,13 +357,37 @@ Hasil Code :
 
 # 4. Jika Elemen Punya ID dan Class
 Kalau elemen punya ID dan Class sekaligus, ID lebih kuat daripada Class.
-Contoh kode di HTML:
-
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/096d7809a79643090cdf8121afea4afe833a1469/Cuplikan%20layar%202025-10-01%20002705.png)
-
 Contoh code di CSS
+```
+#intro {
+  background: #418fb1;
+  border: 1px solid #099249;
+  min-height: 200px;
+  padding: 20px;
+}
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/096d7809a79643090cdf8121afea4afe833a1469/Cuplikan%20layar%202025-10-01%20002807.png)
+#intro h1 {
+  text-align: left;
+  border: 0;
+  color: #fff !important;
+}
+
+#intro p {
+  color: #fff !important;
+}
+.button {
+  padding: 15px 20px;
+  background: #bebcbd;
+  color: #fff;
+  display: inline-block;
+  margin: 10px 0;
+  text-decoration: none;
+}
+
+.btn-primary {
+  background: #E42A42;
+}
+```
 
 Hasil nya :
 
