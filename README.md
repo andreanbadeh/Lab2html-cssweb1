@@ -391,6 +391,6 @@ Contoh code di CSS
 
 Hasil nya :
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/52723fc9af873b28999bf536a8a13831595bb1b4/Cuplikan%20layar%202025-09-30%20233835.png)
+![gambar](https://github.com/andreanbadeh/Lab2html-cssweb1/blob/0061ea755a8f4c694b66c8d569ead911cb6ccc0e/image/Screenshot%20from%202025-10-01%2020-30-25.png)
 
 Hasil: teks merah, karena aturan ID mengalahkan Class.
