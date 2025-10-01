@@ -349,7 +349,7 @@ h1 {…} → berlaku ke semua elemen di halaman.
 # 3. Prioritas CSS (Internal, Eksternal, Inline)
 Contoh code :
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/dea2fe6ee54c05e22ec326b2dd980bed1150e2d4/Cuplikan%20layar%202025-10-01%20001326.png)
+![gambar](https://github.com/andreanbadeh/Lab2html-cssweb1/blob/191f41be45e8a8220a1d75dfff8ab9950bc13c10/image/Screenshot%20from%202025-10-01%2020-15-30.png)
 
 Hasil Code :
 
