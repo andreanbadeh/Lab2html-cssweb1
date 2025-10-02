@@ -5,6 +5,8 @@ Nim : 312410341
 
 Kelas : TI.24.A4
 
+MATKUL : PEMROGRAMAN WEB 1
+
 # Instruksi Praktikum
 1. Persiapkan text editor misalnya VSCode.
 2. Buat file baru dengan nama lat2web1.html
